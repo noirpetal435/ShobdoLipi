@@ -24,11 +24,11 @@
 ## 🚀 Installation & Build Instructions
 
 ### Quick Installation
-1. Download the latest installer (`ShobdoLipi_v1.1.0_Setup.exe`) from the [Releases](https://github.com/your-username/ShobdoLipi/releases) page.
+1. Download the latest installer (`ShobdoLipi_v1.1.0_Setup.exe`) from the [Releases](https://github.com/noirpetal435/ShobdoLipi/releases) page.
 2. Run the setup wizard to install the application.
 3. Launch **ShobdoLipi** and press **F12** to toggle typing modes.
 
 ### Compiling from Source
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/ShobdoLipi.git](https://github.com/your-username/ShobdoLipi.git)
+   git clone [https://github.com/noirpetal435/ShobdoLipi.git](https://github.com/noirpetal435/ShobdoLipi.git)
